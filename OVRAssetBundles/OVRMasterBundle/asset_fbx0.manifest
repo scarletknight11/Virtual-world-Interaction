@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 728268230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5c3748f26cba2a31f44abbfd0e1962d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5d893144fc535de6e7af87177d2af28
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sci Fi Modular Pack/Models/Floor5.fbx
+- Assets/Sci Fi Modular Pack/Models/ProfileDoor.fbx
+- Assets/SpaceStationBuilder/Models/module_02.fbx
+- Assets/SpaceStationBuilder/Models/module_06.fbx
+- Assets/Sci Fi Modular Pack/Models/IntersectionSideFloor.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Sci Fi Modular Pack/Models/Floor1.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/SpaceStationBuilder/Models/box.fbx
+- Assets/SpaceStationBuilder/Models/scaffold_01.fbx
+- Assets/Sci Fi Modular Pack/Models/Wall12.fbx
+- Assets/Sci Fi Modular Pack/Models/SideFloor2.fbx
+- Assets/SpaceStationBuilder/Models/module_07.fbx
+- Assets/Sci Fi Modular Pack/Models/ProfileIntersection.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Sci Fi Modular Pack/Models/Wall2.fbx
+- Assets/Sci Fi Modular Pack/Models/DoorFrame.fbx
+- Assets/SpaceStationBuilder/Models/connector_02.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+- Assets/SpaceStationBuilder/Models/cap_01.fbx
+- Assets/Sci Fi Modular Pack/Models/Floor2.fbx
+- Assets/SpaceStationBuilder/Models/sphere.fbx
+- Assets/Sci Fi Modular Pack/Models/Box1.fbx
+- Assets/Sci Fi Modular Pack/Models/ProfileWindow.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/Sci Fi Modular Pack/Models/WallDoor.fbx
+- Assets/Sci Fi Modular Pack/Models/Door.fbx
+- Assets/SpaceStationBuilder/Models/ring_02.fbx
+- Assets/Sci Fi Modular Pack/Models/Box3.fbx
+Dependencies:
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0

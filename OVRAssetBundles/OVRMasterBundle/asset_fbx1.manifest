@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1459069835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00abf4f4dd56261f154cb0f8c317d7ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5d893144fc535de6e7af87177d2af28
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sci Fi Modular Pack/Models/Light2.fbx
+- Assets/Sci Fi Modular Pack/Models/Floor4.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/Sci Fi Modular Pack/Models/Profile1.fbx
+- Assets/SpaceStationBuilder/Models/scaffold_transparent.fbx
+- Assets/Sci Fi Modular Pack/Models/ProfileEnd.fbx
+- Assets/Sci Fi Modular Pack/Models/WallIntersection2.fbx
+- Assets/Sci Fi Modular Pack/Models/Light1.fbx
+- Assets/Sci Fi Modular Pack/Models/SideFloor1.fbx
+- Assets/SpaceStationBuilder/Models/module_05.fbx
+- Assets/Sci Fi Modular Pack/Models/WallIntersection1.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
+- Assets/Sci Fi Modular Pack/Models/TopWall4.fbx
+- Assets/SpaceStationBuilder/Models/ring_08.fbx
+- Assets/Sci Fi Modular Pack/Models/WallIntersection3.fbx
+- Assets/Sci Fi Modular Pack/Models/Wall3.fbx
+- Assets/Sci Fi Modular Pack/Models/WallIntersection.fbx
+- Assets/Sci Fi Modular Pack/Models/SideWall1.fbx
+- Assets/Sci Fi Modular Pack/Models/Wall1.fbx
+- Assets/SpaceStationBuilder/Models/ring_03.fbx
+Dependencies:
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0

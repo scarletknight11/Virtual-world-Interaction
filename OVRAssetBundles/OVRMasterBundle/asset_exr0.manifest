@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 531882352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 009d7be63abf64c941d54942a8b33996
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c040cef7601b3c05f2f6ecddfcec8c0
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SpaceStationBuilder/scenes/scene_03/ReflectionProbe-0.exr
+Dependencies: []

@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1004375935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8eafd3efac6748eee9f6ae9f03f65cc7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b93bd442b8167f85f0de1ddd2c5f516d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Sci Fi Modular Pack/Materials/ProfileDoor.mat
+- Assets/Sci Fi Modular Pack/Materials/DoorGlass.mat
+- Assets/Sci Fi Modular Pack/Materials/ProfileWindowBar.mat
+- Assets/Sci Fi Modular Pack/Materials/Floor5.mat
+- Assets/Sci Fi Modular Pack/Materials/TopWall4.mat
+- Assets/Sci Fi Modular Pack/Materials/SideWall1.1.mat
+- Assets/Sci Fi Modular Pack/Materials/WallIntersection1.mat
+- Assets/Sci Fi Modular Pack/Materials/WallIntersection2.mat
+- Assets/Sci Fi Modular Pack/Materials/WallDoor.mat
+- Assets/SpaceStationBuilder/Materials/SpaceStation.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Sci Fi Modular Pack/Materials/Box1.mat
+- Assets/Sci Fi Modular Pack/Materials/Door.mat
+- Assets/Sci Fi Modular Pack/Materials/Floor2.mat
+- Assets/Sci Fi Modular Pack/Materials/Wall2.mat
+- Assets/Sci Fi Modular Pack/Materials/Light2.mat
+- Assets/SpaceStationBuilder/Materials/skySphere.mat
+- Assets/Sci Fi Modular Pack/Materials/WallIntersection.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Sci Fi Modular Pack/Materials/Light1.mat
+- Assets/Sci Fi Modular Pack/Materials/SideFloor2.mat
+- Assets/Sci Fi Modular Pack/Materials/Bar.mat
+- Assets/Sci Fi Modular Pack/Materials/Light1_Steel.mat
+- Assets/Sci Fi Modular Pack/Materials/ProfileWindow.mat
+- Assets/Sci Fi Modular Pack/Materials/IntersectionSideFloor.mat
+- Assets/Sci Fi Modular Pack/Materials/Floor1.mat
+- Assets/Sci Fi Modular Pack/Materials/Wall12.mat
+- Assets/Sci Fi Modular Pack/Materials/ProfileEnd.mat
+- Assets/Sci Fi Modular Pack/Materials/Floor4.mat
+Dependencies:
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png1
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png2
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png3
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png4
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png5
+- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_tga0

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2828724416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac206a423fdf013db6fee84eda11cdcc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a124a79f3cd96c32e82437ed953faa0
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SpaceStationBuilder/scenes/scene_03Settings.lighting
+Dependencies: []

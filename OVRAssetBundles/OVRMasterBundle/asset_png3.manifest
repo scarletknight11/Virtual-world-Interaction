@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 842407629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 865203010151689ab3f55a36baba2fbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sci Fi Modular Pack/Textures/Light1/Light1_Material.002_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/Floor5/Floor5_Material.001_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/Box3/Box3_DefaultMaterial_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/Wall12/Wall12_DefaultMaterial_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/WallIntersection3/WallIntersection3_DefaultMaterial_AO.png
+- Assets/Sci Fi Modular Pack/Textures/SideWall1/SideWall1.1_DefaultMaterial_AO.png
+- Assets/Sci Fi Modular Pack/Textures/Light1/Light1_Material.001_AO.png
+- Assets/Sci Fi Modular Pack/Textures/SideFloor1/SideFloor1_DefaultMaterial_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/Light1/Light1_Material.001_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/Wall2/Wall2_Material.002_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/SideFloor2/SideFloor2_Material.001_Emission.png
+- Assets/Sci Fi Modular Pack/Textures/SideWall1/SideWall1.1_DefaultMaterial_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/Box3/Box3_DefaultMaterial_Emission.png
+- Assets/Sci Fi Modular Pack/Textures/Door/Door_Material.001_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/Wall12/Wall12_DefaultMaterial_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/Light1/Light1_Material.002_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/Wall2/Wall2_Material.001_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/Box1/Box1_DefaultMaterial_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileWindow/Window/ProfileWindow1_Material.003_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/Door/Door_Material.001_AO.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileIntersection/ProfileIntersection_DefaultMaterial_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileWindow/Profile/ProfileWindow1_Material.004_Emission.png
+- Assets/Sci Fi Modular Pack/Textures/Floor5/Floor5_Material.001_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/Light1/Light1_Material.001_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/DoorFrame/DoorFrame_DefaultMaterial_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileIntersection/ProfileIntersection_DefaultMaterial_AO.png
+- Assets/SpaceStationBuilder/Textures/SpaceStation_metallic.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileWindow/Glass/ProfileWindow1_Glass_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/Light2/Light2_DefaultMaterial_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/SideFloor1/SideFloor1_DefaultMaterial_MetallicSmoothness.png
+Dependencies: []

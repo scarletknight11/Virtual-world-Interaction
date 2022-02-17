@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3530977365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f275f74b44c8ce6f94a5a1e569ca9882
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sci Fi Modular Pack/Textures/ProfileDoor/ProfileDoor_DefaultMaterial_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileWindow/Window/ProfileWindow1_Material.003_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileWindow/Window/ProfileWindow1_Material.003_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/Box1/Box1_DefaultMaterial_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/SideFloor1/SideFloor1_DefaultMaterial_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/Box1/Box1_DefaultMaterial_AlbedoTransparency.png
+- Assets/Sci Fi Modular Pack/Textures/WallIntersection1/WallIntersection1_DefaultMaterial_AO.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileWindow/Glass/ProfileWindow1_Glass_AO.png
+- Assets/Sci Fi Modular Pack/Textures/ProfileWindow/Bar/ProfileWindow1_Material.002_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/Light1/Light1_Material.002_AO.png
+- Assets/Sci Fi Modular Pack/Textures/Wall3/Wall3_DefaultMaterial_Normal.png
+- Assets/Sci Fi Modular Pack/Textures/Wall1/Wall1_DefaultMaterial_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/Floor1/Floor1_DefaultMaterial_MetallicSmoothness.png
+- Assets/Sci Fi Modular Pack/Textures/Profile1/Profile1_DefaultMaterial_AlbedoTransparency.png
+Dependencies: []
