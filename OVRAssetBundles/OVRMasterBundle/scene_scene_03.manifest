@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2900710250
+CRC: 3607689747
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7b8567b03546f020dc32d4bedd12ba91
+    Hash: 993fe5fc4dc0315e65aea2e2b0464211
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c943e3a211350aee0b46f497dc869c8d
+    Hash: 4f50d96a32bd87758fc2bc635c57b097
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -47,6 +47,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86233e820a7cd404db59d9391cdd3c5f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: abee63302fdc2bb4f80efe129df0a723, type: 3}
 - Class: 114
@@ -107,6 +109,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2d179fd81cd2e344ab2e610cd5f7260e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bebfb74b97b000d4899abbd61f49aa40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf162022e230bb745ab2ec48cd357f9e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bf98dd1206224111a38765365e98e207, type: 3}
 - Class: 114
@@ -177,12 +181,12 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/SpaceStationBuilder/scenes/scene_03.unity
 Dependencies:
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_controller0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_exr0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx1
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_lighting0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat1
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_lighting0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab1

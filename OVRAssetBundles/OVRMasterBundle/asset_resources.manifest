@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1815425894
+CRC: 1222684404
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6cafc559b187b4076eccac9bb1aea4bb
+    Hash: 86de310b6a8a4688b4c946367c17a09a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 00eaebd228839b16a96bd64de5a3e7e7
+    Hash: 9d1dff0e54d69573a95ed71195ca3c26
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -19,6 +19,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
 - Class: 114
@@ -119,6 +121,7 @@ Assets:
 - Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to
   Dark Green - Vertical.asset
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+- Assets/Resources/ONSPSettings.asset
 - Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaCutout.shader
 - Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaToMask.shader
 - Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
