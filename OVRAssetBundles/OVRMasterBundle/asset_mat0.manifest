@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1004375935
+CRC: 93277
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8eafd3efac6748eee9f6ae9f03f65cc7
+    Hash: c3ebb5d12509d4a1bed7dade6efd199b
   TypeTreeHash:
     serializedVersion: 2
     Hash: b93bd442b8167f85f0de1ddd2c5f516d
@@ -48,10 +48,10 @@ Assets:
 - Assets/Sci Fi Modular Pack/Materials/ProfileEnd.mat
 - Assets/Sci Fi Modular Pack/Materials/Floor4.mat
 Dependencies:
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png1
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png2
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png3
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png4
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_png5
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_png4
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_png5
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_tga0

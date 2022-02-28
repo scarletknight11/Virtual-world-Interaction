@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2178670733
+CRC: 351939439
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: daa1ae222bd419ebb27c82c205685500
+    Hash: c856d6c45fe32039e3a2800a8b40fa71
   TypeTreeHash:
     serializedVersion: 2
     Hash: e5a9003bc2c2d6ebeeddd6f4465e7b81
@@ -153,9 +153,9 @@ Assets:
 - Assets/Sci Fi Modular Pack/Prefabs/DoorFrame.prefab
 - Assets/SpaceStationBuilder/Prefabs/Modules/module_07.prefab
 Dependencies:
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_asset0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx1
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat1
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab0

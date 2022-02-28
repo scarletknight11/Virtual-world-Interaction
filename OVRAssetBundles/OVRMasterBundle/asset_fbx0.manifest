@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 728268230
+CRC: 1025561966
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f5c3748f26cba2a31f44abbfd0e1962d
+    Hash: 16c68e1e19f13a35f5d9ecff7d038d00
   TypeTreeHash:
     serializedVersion: 2
     Hash: c5d893144fc535de6e7af87177d2af28
@@ -64,4 +64,4 @@ Assets:
 - Assets/SpaceStationBuilder/Models/ring_02.fbx
 - Assets/Sci Fi Modular Pack/Models/Box3.fbx
 Dependencies:
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0

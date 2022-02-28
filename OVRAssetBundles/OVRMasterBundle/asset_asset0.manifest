@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 371852308
+CRC: 3411019950
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7fb088e69da072796cc81a330e9672df
+    Hash: d8a913b6709b58ea1522b4f033336144
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7b4c496529ae7b01ba391d5485955a58
@@ -35,5 +35,5 @@ Assets:
 - Assets/Oculus/Interaction/Runtime/Meshes/HandRight.asset
 - Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/IndexFingerFeatureStateThresholds.asset
 Dependencies:
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab1

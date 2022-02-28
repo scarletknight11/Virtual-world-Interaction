@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4003370677
+CRC: 4121197294
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cb5b540123f1dcca1554620ff0f71f03
+    Hash: 4fb50a936d13fb5553a9f3c8cd82bbd0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7f93142c37fd8f3eebd911cd0450530e
@@ -162,9 +162,9 @@ Assets:
 - Assets/Sci Fi Modular Pack/Prefabs/Starter/ProfileDoor.prefab
 - Assets/Sci Fi Modular Pack/Prefabs/IntersectionSideFloor.prefab
 Dependencies:
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_controller0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx1
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat1
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_prefab1

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 203296891
+CRC: 1551002139
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f5574850f66f98ffbd9172529bd224ca
+    Hash: 03a3dec621175d0e2958c63a63f1218b
   TypeTreeHash:
     serializedVersion: 2
     Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
@@ -24,6 +24,6 @@ Assets:
 - Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
 Dependencies:
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_anim0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- D:/VR Hand Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/sanji/Documents/GitHub/Virtual-world-Interaction/OVRAssetBundles/OVRMasterBundle/asset_fbx1
